@@ -12,7 +12,10 @@
         "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
         "category": "mobile",
-        "featured": true
+        "featured": true,
+        "stock": 5,
+        "review": 60,
+        "stars": 4.8
     },
     {
         "id": "ranjitb",
@@ -26,7 +29,10 @@
         "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
         "category": "mobile",
-        "shipping": true
+        "shipping": true,
+        "stock": 10,
+        "review": 30,
+        "stars": 3.5
     },
     {
         "id": "ranjitc",
@@ -39,7 +45,10 @@
         ],
         "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "laptop"
+        "category": "laptop",
+        "stock": 3,
+        "review": 10,
+        "stars": 4.0
     },
     {
         "id": "ranjitd",
@@ -54,7 +63,10 @@
         "image": "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
         "category": "mobile",
-        "shipping": true
+        "shipping": true,
+        "stock": 50,
+        "review": 600,
+        "stars": 5.0
     },
     {
         "id": "ranjite",
@@ -68,7 +80,10 @@
         "image": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
         "category": "computer",
-        "shipping": true
+        "shipping": true,
+        "stock": 40,
+        "review": 5,
+        "stars": 2.5
     },
     {
         "id": "ranjitf",
@@ -82,7 +97,10 @@
         "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
         "category": "laptop",
-        "shipping": true
+        "shipping": true,
+        "stock": 5,
+        "review": 60,
+        "stars": 4.8
     },
     {
         "id": "ranjitg",
@@ -96,7 +114,10 @@
         "image": "https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
         "category": "laptop",
-        "shipping": true
+        "shipping": true,
+         "stock": 10,
+        "review": 30,
+        "stars": 3.5
     },
     {
         "id": "ranjith",
@@ -111,7 +132,10 @@
         "description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
         "category": "accessories",
         "featured": true,
-        "shipping": true
+        "shipping": true,
+         "stock": 100,
+        "review": 300,
+        "stars": 4.5
     },
     {
         "id": "ranjiti",
@@ -124,7 +148,10 @@
         "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
         "category": "watch",
-        "shipping": true
+        "shipping": true,
+         "stock": 10,
+        "review": 30,
+        "stars": 3.5
     },
     {
         "id": "ranjitj",
@@ -138,7 +165,10 @@
         ],
         "image": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "accessories"
+        "category": "accessories",
+         "stock": 10,
+        "review": 30,
+        "stars": 3.5
     },
     {
         "id": "ranjitk",
@@ -151,7 +181,9 @@
         ],
         "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "watch"
+        "category": "watch", "stock": 10,
+        "review": 30,
+        "stars": 3.5
     },
     {
         "id": "ranjitl",
@@ -166,6 +198,9 @@
         "image": "https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
         "category": "watch",
-        "featured": true
+        "featured": true,
+         "stock": 10,
+        "review": 30,
+        "stars": 3.5
     }
 ]
